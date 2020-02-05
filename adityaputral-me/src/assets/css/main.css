@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: CambayRegular;
+  src: url("../fonts/Cambay-Regular.ttf");
+}
+
+@font-face {
+  font-family: CambayBold;
+  src: url("../fonts/Cambay-Bold.ttf");
+}
+
+@font-face {
+  font-family: CambayItalic;
+  src: url("../fonts/Cambay-Italic.ttf");
+}
+
+body {
+  font-family: CambayRegular, "sans-serif";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #17252a;
+}

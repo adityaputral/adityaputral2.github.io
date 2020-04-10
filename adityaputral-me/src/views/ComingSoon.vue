@@ -13,7 +13,7 @@
         <a
           class="container__subtext container__subtext--shop"
           href="http://www.shop.spasium.com/artist/aditya-putra-l."
-          >Shop my artwork</a
+          >Shop my artworks</a
         >
       </div>
     </div>
